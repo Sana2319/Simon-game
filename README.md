@@ -8,6 +8,9 @@ A simple implementation of the **Simon Says Game**, built using HTML, CSS, and J
 - With each level, the sequence gets longer. 
 - If you make a mistake, the game ends and you can start again!
 
+## 🔗 Live Game
+Play the Simon Says Game :- https://simonsworld.netlify.app/
+
 ## 🚀 Features
 - **Interactive gameplay**: Dynamic sequence generation with user interaction.
 - **Responsive design**: Compatible with all screen sizes.
